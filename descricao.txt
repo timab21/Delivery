@@ -1,0 +1,3 @@
+Olá, obrigado por acessar este projeto!
+Estou cursando Superior em Analise e Desenvolvimento de Sistemas e este foi meu primeiro projeto.
+Desenvolvimento de um site delivery online com pedidos via whatsapp em HTML e CSS.
